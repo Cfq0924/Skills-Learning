@@ -1,0 +1,21 @@
+# Ignore analysis, guides, knowledge base and exercises
+2-analysis/
+3-guides/
+4-knowledge-base/
+6-exercises/
+
+# Keep repositories
+!1-repositories/
+1-repositories/.gitkeep
+
+# Keep templates
+!5-templates/
+5-templates/.gitkeep
+
+# Keep resources
+!7-resources/
+7-resources/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
